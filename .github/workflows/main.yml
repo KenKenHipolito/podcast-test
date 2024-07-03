@@ -11,4 +11,4 @@ jobs:
       - name: Copy To Branches Action
         uses: planetoftheweb/copy-to-branches@v1.2
         env:
-          key: main
+          key: master
